@@ -1,10 +1,11 @@
-# <Prework study guide project α>
+# Prework study guide project α
 
 ## As a project, this was a challenge where we look to give a brief guide to the user about the different mandatory steps to follow up when we need to create an html file with functions, rules, desing and content. At the same time my  motivation was about remember how important is go over your limit, explore seeking challenges and reach personal goals, in this case as a developer/student. For the purpose of this guide, the objective is to offer different essential points about CSS, HTML, JavaScript among others. This way it will make it easier for anyone to have an idea of how this process works when creating a project of this type. On the other hand, as part of the learning, I have learned to use terminal as a fundamental tool to create folders in strategic locations, update our projects locally and remotely in our github account, in turn with the use of visual studio, add the structure to our HTML project, adding information, design and commands to our website
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
+N/A
 
 ## Installation
 
